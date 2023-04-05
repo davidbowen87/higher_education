@@ -1,4 +1,9 @@
 # higher_education
+## Project Status (updated 4/5/23 4:00 PM EST)
+- Ashley cleaning and joining data 
+- David creating Machine Learning 
+- Juan creating ERD 
+
 ## Project Overview
 The purpose of this project is to perform an analysis of higher education institution data in order to discover trends in the academic workforce and turnover tendencies among different institutions.
 
