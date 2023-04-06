@@ -64,7 +64,7 @@ Overall, analyzing the data on higher education institutions can provide valuabl
   -- TBD Turnover Graph: Turnover = (Year 1 - Year 2) * 100/Year 1
 
 Sample map: 
-![Alt text] (https://www.usnews.com/cmsmedia/0c/d3/22aa0485436fa017ada7a15d3f54/160913top1002017-graphic.jpg “Sample Map”)
+![Sample Map] (https://www.usnews.com/cmsmedia/0c/d3/22aa0485436fa017ada7a15d3f54/160913top1002017-graphic.jpg)
 
 
 ## Results 
