@@ -51,6 +51,7 @@ Overall, analyzing the data on higher education institutions can provide valuabl
 ## Data Tools Used
 - Python to clean the data 
 - Postgres
+![ERD](https://github.com/davidbowen87/higher_education/blob/Database/Resources/QuickDBD-export.png)
 - Machine Learning to predict turnover 
 - Tableau to great an easy to use end-user experience for the data 
   - Map: Showing where universities are located (LONGITUD, LATITUDE)
