@@ -53,15 +53,15 @@ Overall, analyzing the data on higher education institutions can provide valuabl
 - Postgres
 - Machine Learning to predict turnover 
 - Tableau to great an easy to use end-user experience for the data 
-  -- Map: Showing where universities are located (LONGITUD, LATITUDE)
-  -- Bar Chart Institutional Control: public, private, not-for-profit, private for-profit, not available (CONTROL)
-  -- Map: Large bubbles by institutional size, include name of institution and control type when clicked on (INSTSIZE, LONGITUD, LATITUDE, CONTROL, INSTNM)
-  -- Bar Chart Gender of Academic Staff: (HRTOTLT: Grand total, HRTOTLM: Grand total men HRTOTLW: Grand total women)
-  -- Bar Chart by Grand Total for each year: HRTOTLT to discover if employment rate is going up or down. 
-  -- Line Graph of Academic Workforce by year and appointment type: tenured, tenure-track, non-tenure-track, no tenure system, part-time (FACSTAT) 
-  -- Line Graph of Academic Workforce by Rank: Professors, Associate professors, Assistant professors, Instructors, Lecturers, and No academic rank (ARANK).
-  -- TBD Retention Graph: Retention = (Year 2 total employees / Year 1 total employees) * 100
-  -- TBD Turnover Graph: Turnover = (Year 1 - Year 2) * 100/Year 1
+  - Map: Showing where universities are located (LONGITUD, LATITUDE)
+  - Bar Chart Institutional Control: public, private, not-for-profit, private for-profit, not available (CONTROL)
+  - Map: Large bubbles by institutional size, include name of institution and control type when clicked on (INSTSIZE, LONGITUD, LATITUDE, CONTROL, INSTNM)
+  - Bar Chart Gender of Academic Staff: (HRTOTLT: Grand total, HRTOTLM: Grand total men HRTOTLW: Grand total women)
+  - Bar Chart by Grand Total for each year: HRTOTLT to discover if employment rate is going up or down. 
+  - Line Graph of Academic Workforce by year and appointment type: tenured, tenure-track, non-tenure-track, no tenure system, part-time (FACSTAT) 
+  - Line Graph of Academic Workforce by Rank: Professors, Associate professors, Assistant professors, Instructors, Lecturers, and No academic rank (ARANK).
+  - TBD Retention Graph: Retention = (Year 2 total employees / Year 1 total employees) * 100
+  - TBD Turnover Graph: Turnover = (Year 1 - Year 2) * 100/Year 1
 
 
 ![Sample Map](https://www.usnews.com/cmsmedia/0c/d3/22aa0485436fa017ada7a15d3f54/160913top1002017-graphic.jpg)
