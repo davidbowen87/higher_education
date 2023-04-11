@@ -21,14 +21,9 @@ CREATE TABLE Highered_data (
 
 
 CREATE TABLE Appointment_type (
-     Year INT NOT NULL,
-     UNITID INT NOT NULL,
-	 FACSTAT INT NOT NULL,
 	 ARANK INT NOT NULL,
 	 HRTOTLT INT NOT NULL,
-	 HRTOTLM INT NOT NULL,
-	 HRTOTLW INT NOT NULL,
-     PRIMARY KEY (UNITID)
+     PRIMARY KEY (ARANK)
 );
 
 CREATE TABLE Institution_size (
@@ -51,7 +46,14 @@ CREATE TABLE Gender (
      PRIMARY KEY (UNITID)
 );
 
+CREATE TABLE Faculty_status (
+	 FACSTAT INT NOT NULL,
+	 HRTOTLT INT NOT NULL,
+	 PRIMARY KEY (FACSTAT)
+);
+
 SELECT * FROM Highered_data
 SELECT * FROM Appointment_type
 SELECT * FROM Institution_size
 SELECT * FROM Gender
+SELECT * FROM Faculty_status
