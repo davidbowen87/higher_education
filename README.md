@@ -52,7 +52,7 @@ Overall, analyzing the data on higher education institutions can provide valuabl
 - Python to clean the data 
 - Postgres
 
-![ERD](https://github.com/davidbowen87/higher_education/blob/Database/Resources/QuickDBD-export.png)
+![ERD](https://github.com/davidbowen87/higher_education/blob/main/QuickDBD-export%20(1).png)
 
 - Machine Learning to predict turnover 
 - Tableau to great an easy to use end-user experience for the data 
