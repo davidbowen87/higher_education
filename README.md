@@ -1,8 +1,8 @@
 # higher_education
-## Project Status (updated 4/6/23 8:30 AM EST)
-- Ashley cleaning and joining data - completed
-- David creating Machine Learning - draft created
-- Juan creating ERD - completed
+## Project Status (updated 4/13/23 9:00 PM EST)
+- Ashley working on dashboard
+- David working Machine Learning 
+- Juan completed ERD and SQL 
 
 ## Project Overview
 The purpose of this project is to perform an analysis of higher education institution data in order to discover trends in the academic workforce and turnover tendencies among different institutions.
@@ -67,9 +67,9 @@ Overall, analyzing the data on higher education institutions can provide valuabl
   - TBD Turnover Graph: Turnover = (Year 1 - Year 2) * 100/Year 1
 
 
-![Sample Map](https://www.usnews.com/cmsmedia/0c/d3/22aa0485436fa017ada7a15d3f54/160913top1002017-graphic.jpg)
-
 ## Results 
 Coming soon! 
+
+David: Add the Machine learning accuracy score. 
 
 ![Tableau Draft](https://github.com/davidbowen87/higher_education/blob/IS2021/Resources/Tableau-Draft.jpg)
