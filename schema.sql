@@ -1,5 +1,5 @@
 -- Creating tables for postgres
-CREATE TABLE Highered_data (
+CREATE TABLE highered_data_table (
      Year INT NOT NULL,
      UNITID INT NOT NULL,
 	 FACTSTAT INT NOT NULL,
@@ -7,9 +7,9 @@ CREATE TABLE Highered_data (
 	 HRTOTLT INT NOT NULL,
 	 HRTOTLM INT NOT NULL,
 	 HRTOTLW INT NOT NULL,
-	 INSTNM VARCHAR NOT NULL,
-	 CITY VARCHAR NOT NULL,
-	 STABBR VARCHAR NOT NULL,
+	 INSTNM TEXT NOT NULL,
+	 CITY TEXT NOT NULL,
+	 STABBR TEXT NOT NULL,
 	 ZIP INT NOT NULL,
 	 CONTROL INT NOT NULL,
 	 HLOFFER INT NOT NULL,
@@ -52,8 +52,8 @@ CREATE TABLE Faculty_status (
 	 PRIMARY KEY (FACSTAT)
 );
 
-SELECT * FROM Highered_data
-SELECT * FROM Appointment_type
-SELECT * FROM Institution_size
-SELECT * FROM Gender
-SELECT * FROM Faculty_status
+SELECT * FROM highered_data_table
+SELECT * FROM appointment_type_table
+SELECT * FROM institution_size_table
+SELECT * FROM gender_table
+SELECT * FROM faculty_status_table
