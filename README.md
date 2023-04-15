@@ -70,6 +70,8 @@ Overall, analyzing the data on higher education institutions can provide valuabl
 ## Results 
 Coming soon! 
 
-David: Add the Machine learning accuracy score. 
+Machine Learning Accuracy score 
+
+![mach_learn_results](https://user-images.githubusercontent.com/59536055/232238101-6fca719a-51a0-4213-a8e6-45eaecad02ca.png)
 
 ![Tableau Draft](https://github.com/davidbowen87/higher_education/blob/IS2021/Resources/Tableau-Draft.jpg)
