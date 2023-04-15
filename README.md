@@ -72,6 +72,6 @@ Coming soon!
 
 Machine Learning Accuracy score 
 
-![mach_learn_results](https://user-images.githubusercontent.com/59536055/232238101-6fca719a-51a0-4213-a8e6-45eaecad02ca.png)
+![mach_learn_results_only](https://user-images.githubusercontent.com/59536055/232238998-08603002-4ac4-41df-bf97-fc77ca7491b8.PNG)
 
 ![Tableau Draft](https://github.com/davidbowen87/higher_education/blob/IS2021/Resources/Tableau-Draft.jpg)
