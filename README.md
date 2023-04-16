@@ -49,8 +49,19 @@ Overall, analyzing the data on higher education institutions can provide valuabl
 - Does the academic rank and tenure status of faculty affect turnover?
 
 ## Data Tools Used
-- Python to clean the data 
-- Postgres
+- Cleaning Data
+  - Pandas
+- Creating Database
+  - PostgreSQL
+  - Amazon Web Services (AWS)
+- Connecting to Database
+  - Psycopg2
+- Analyzing Data
+  - Pandas
+- Machine Learning
+  - Scikit-Learn
+- Dashboard
+  - Tableau
 
 ![ERD](https://github.com/davidbowen87/higher_education/blob/main/QuickDBD-export%20(1).png)
 
@@ -68,7 +79,35 @@ Overall, analyzing the data on higher education institutions can provide valuabl
 
 
 ## Results 
-Coming soon! 
+
+### - Analysis
+
+In order to understand the current faculty trends across US institutions, we decided to perform analysis on the table that we created for the year 2021. This table contained faculty data and institutional characteristics for 3586 different higher education institutions.
+  - This analysis showed us that on average the percentage of male faculty is 52% while 48% is made up by female faculty.
+
+![Describe](https://user-images.githubusercontent.com/116690861/232312472-30e06643-fe27-4c0e-8217-5e014efdee78.png)
+
+  - The majority of the colleges and universities are public institutions (45%) while there are also a lot of private, not-for-profit institutions (41%). The number of private, for-profit insitutions is very low in comparison (14%)
+
+![Control](https://user-images.githubusercontent.com/116690861/232312749-78c414df-a2c6-43e7-851e-86ac87fe0630.png)
+
+  - Most of the institutions in this dataset offer at least a 4 year Bachelor's degree, with 68% of them doing so. 
+
+![Bachelors](https://user-images.githubusercontent.com/116690861/232313026-acdb8e9f-ca4d-4de8-bf2b-04becae8b6d2.png)
+
+  - By analyzing the institution size, we were able to discover that most of the institutions rank on the smaller side of the spectrum while the big state universities only make up 5% of the institutions.
+
+![Institution Size](https://user-images.githubusercontent.com/116690861/232313205-e8c3c231-d255-40cf-8b3e-86ec8f2920b3.png)
+
+  - We also looked at the trends displayed by the faculty's academic rank and tenure status. There were a few different trends we noticed when looking at this part of the data. First, as expected, the total number of faculty decreased as the academic rank increased. The other trend we noticed was more interesting. The lower academic ranks showed a higher amount of male faculty, but as the rank increased, so did the percentage of female faculty. The lowest rank had 51% male faculty and 49% female faculty while the highest rank had 44% male faculty and 56% female faculty. 
+
+![Academic Rank](https://user-images.githubusercontent.com/116690861/232313754-a21354cb-328a-41c2-bfb7-c08685f960e6.png)
+
+  - A similar situation was observed with the faculty tenure status. Male faculty started with a higher percentage on the lower status but the female faculty percentage increased as the status increased as well. The only outlier in this trend is the highest status in which the split between male and female faculty is 50%. 
+
+![Faculty Status](https://user-images.githubusercontent.com/116690861/232314645-45dbb053-0f60-4b1f-894a-d5deb7415b95.png)
+
+
 
 Machine Learning Accuracy score 
 
