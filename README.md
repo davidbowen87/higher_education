@@ -111,6 +111,6 @@ In order to understand the current faculty trends across US institutions, we dec
 
 Machine Learning Accuracy score 
 
-![mach_learn_results_only](https://user-images.githubusercontent.com/59536055/232238998-08603002-4ac4-41df-bf97-fc77ca7491b8.PNG)
+![mach_learn_results_0417](https://user-images.githubusercontent.com/59536055/232629489-7f9e23ba-a41f-4fc8-8a61-b003fe6edd42.PNG)
 
 ![Tableau Draft](https://github.com/davidbowen87/higher_education/blob/IS2021/Resources/Tableau-Draft.jpg)
