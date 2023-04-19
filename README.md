@@ -1,8 +1,4 @@
-# higher_education
-## Project Status (updated 4/13/23 9:00 PM EST)
-- Ashley working on dashboard
-- David working Machine Learning 
-- Juan completed ERD and SQL 
+# Higher Education Faculty Retention
 
 ## Project Overview
 The purpose of this project is to perform an analysis of higher education institution data in order to discover trends in the academic workforce and turnover tendencies among different institutions.
@@ -48,6 +44,9 @@ Overall, analyzing the data on higher education institutions can provide valuabl
 - Does the number of women and men employed affect faculty turnover?
 - Does the academic rank and tenure status of faculty affect turnover?
 
+## Communication Protocols
+- In order to update each other on the status of our individual parts of the project we established frequent communication through Slack and Zoom meetings.
+
 ## Data Tools Used
 - Cleaning Data
   - Pandas
@@ -60,6 +59,7 @@ Overall, analyzing the data on higher education institutions can provide valuabl
   - Pandas
 - Machine Learning
   - Scikit-Learn
+  - Balanced Random Forest Classifier
 - Dashboard
   - Tableau
 
