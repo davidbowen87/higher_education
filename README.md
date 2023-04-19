@@ -109,8 +109,40 @@ In order to understand the current faculty trends across US institutions, we dec
 
 
 
-Machine Learning Accuracy score 
+###Machine Learning
 
-![mach_learn_results_0417](https://user-images.githubusercontent.com/59536055/232629489-7f9e23ba-a41f-4fc8-8a61-b003fe6edd42.PNG)
+For this analysis we used Random Forest for the machine learning model. The below images are the results that we have from using different values for the n_estimators.
+
+Here are the results for the n_estimators value being 50.
+
+![cm_50](https://user-images.githubusercontent.com/59536055/232937353-3bd4fbde-8bd4-404e-942c-37a9e7ea5d0f.PNG)
+
+The confusion matrix returns 797 true positive, 116 false negative, 144 false positive and 496 true negative.
+
+![cr_50](https://user-images.githubusercontent.com/59536055/232937799-760ea5a1-f796-49ed-81ce-87003448c9ea.PNG)
+
+The classification report shows that our average precision/accuracy is 83% with an 83% recall.
+
+Here are the results for the n_estimators value being 100.
+
+![cm_100](https://user-images.githubusercontent.com/59536055/232938038-64eb3a84-3956-4fcc-b490-1fc63387605b.PNG)
+
+The confusion matrix returns 789 true positive, 124 false negative, 139 false positive and 501 true negative.
+
+![cr_100](https://user-images.githubusercontent.com/59536055/232938596-3e80fe3b-9a70-417f-af1f-761be4378533.PNG)
+
+The classification report shows that our average precision/accuracy is 83% with an 83% recall.
+
+Here are the results for the n_estimators value being 250.
+
+![cm_250](https://user-images.githubusercontent.com/59536055/232938804-0284027c-f38f-4646-8f14-2f0466c9cf3a.PNG)
+
+The confusion matrix returns 783 true positive, 130 false negative, 133 false positive and 507 true negative.
+
+![cr_250](https://user-images.githubusercontent.com/59536055/232939015-55759048-9759-44ff-976f-aecc4af6af6f.PNG)
+
+The classification report shows that our average precision/accuracy is 83% with an 83% recall.
+
+The classification report shows that our average precision/accuracy is 83% with an 83% recall.
 
 ![Tableau Draft](https://github.com/davidbowen87/higher_education/blob/IS2021/Resources/Tableau-Draft.jpg)
