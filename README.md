@@ -1,5 +1,4 @@
 # higher_education
-# higher_education
 ## Project Status (updated 4/13/23 9:00 PM EST)
 - Ashley working on dashboard
 - David working Machine Learning 
