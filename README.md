@@ -64,7 +64,7 @@ Overall, analyzing the data on higher education institutions can provide valuabl
 - Dashboard
   - Tableau
 
-![ERD](https://github.com/davidbowen87/higher_education/blob/main/QuickDBD-export%20(1).png)
+[ERD](https://github.com/davidbowen87/higher_education/blob/main/Database/QuickDBD-export%20(1).png)
 
 - Machine Learning to predict turnover 
 - Tableau to great an easy to use end-user experience for the data 
