@@ -66,7 +66,7 @@ Overall, analyzing the data on higher education institutions can provide valuabl
 
 ## Results 
 
-### - Analysis
+### Analysis
 
 In order to understand the current faculty trends across US institutions, we decided to perform analysis on the table that we created for the year 2021. This table contained faculty data and institutional characteristics for 3586 different higher education institutions.
   - This analysis showed us that on average the percentage of male faculty is 52% while 48% is made up by female faculty.
@@ -95,7 +95,7 @@ In order to understand the current faculty trends across US institutions, we dec
 
 
 
-###Machine Learning
+### Machine Learning
 
 For this analysis we used Random Forest for the machine learning model. The below images are the results that we have from using different values for the n_estimators.
 
