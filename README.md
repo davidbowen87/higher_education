@@ -135,4 +135,5 @@ The classification report shows that our average precision/accuracy is 83% with 
 
 ## Dashboard
 
-![Tableau Draft](https://github.com/davidbowen87/higher_education/blob/IS2021/Resources/Tableau-Draft.jpg)
+- We used Tableau to create an interactive dashboard. Out Tableau Dashboard can be found here [Tableau Dashboard](https://public.tableau.com/app/profile/ashley.tharpe/viz/higher_ed/Higher_Ed_Story?publish=yes)
+
