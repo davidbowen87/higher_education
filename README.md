@@ -63,20 +63,6 @@ Overall, analyzing the data on higher education institutions can provide valuabl
 - Dashboard
   - Tableau
 
-[ERD](https://github.com/davidbowen87/higher_education/blob/main/Database/QuickDBD-export%20(1).png)
-
-- Machine Learning to predict turnover 
-- Tableau to great an easy to use end-user experience for the data 
-  - Map: Showing where universities are located (LONGITUD, LATITUDE)
-  - Bar Chart Institutional Control: public, private, not-for-profit, private for-profit, not available (CONTROL)
-  - Map: Large bubbles by institutional size, include name of institution and control type when clicked on (INSTSIZE, LONGITUD, LATITUDE, CONTROL, INSTNM)
-  - Bar Chart Gender of Academic Staff: (HRTOTLT: Grand total, HRTOTLM: Grand total men HRTOTLW: Grand total women)
-  - Bar Chart by Grand Total for each year: HRTOTLT to discover if employment rate is going up or down. 
-  - Line Graph of Academic Workforce by year and appointment type: tenured, tenure-track, non-tenure-track, no tenure system, part-time (FACSTAT) 
-  - Line Graph of Academic Workforce by Rank: Professors, Associate professors, Assistant professors, Instructors, Lecturers, and No academic rank (ARANK).
-  - TBD Retention Graph: Retention = (Year 2 total employees / Year 1 total employees) * 100
-  - TBD Turnover Graph: Turnover = (Year 1 - Year 2) * 100/Year 1
-
 
 ## Results 
 
@@ -143,6 +129,10 @@ The confusion matrix returns 783 true positive, 130 false negative, 133 false po
 
 The classification report shows that our average precision/accuracy is 83% with an 83% recall.
 
-The classification report shows that our average precision/accuracy is 83% with an 83% recall.
+## Presentation 
+
+- Our presentation can be found here [Presentation](https://docs.google.com/presentation/d/1ZhQl0a3XDOoUZ9Pi9GsLc_l_Vj72nmWxW8ap1C5isHM/edit#slide=id.g20a1b7ae746_4_11)
+
+## Dashboard
 
 ![Tableau Draft](https://github.com/davidbowen87/higher_education/blob/IS2021/Resources/Tableau-Draft.jpg)
